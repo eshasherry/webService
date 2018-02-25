@@ -26,7 +26,7 @@ Service service;
         List<User> user= new ArrayList<User>();
        // user.add(new User("Esha","Sherry"));
         user= service.getAllUsers();
-
+//comment
         return user;
     }
 }
